@@ -1,15 +1,15 @@
-# Viewtiful
-Simple view utils
+# ViewPagerIndicator
+Fork of https://github.com/JakeWharton/ViewPagerIndicator which supports API 23
 
-[![Build Status](https://travis-ci.org/Commit451/Viewtiful.svg?branch=master)](https://travis-ci.org/Commit451/Viewtiful)
-[![](https://jitpack.io/v/Commit451/Viewtiful.svg)](https://jitpack.io/#Commit451/Viewtiful)
-
-# Usage
-See the sample project for a comprehensive example. 
+[![Build Status](https://travis-ci.org/Commit451/ViewPagerIndicator.svg?branch=master)](https://travis-ci.org/Commit451/ViewPagerIndicator)
+[![](https://jitpack.io/v/Commit451/ViewPagerIndicator.svg)](https://jitpack.io/#Commit451/ViewPagerIndicator)
 
 License
 --------
 
+    Copyright 2012 Jake Wharton
+    Copyright 2011 Patrik Åkerfeldt
+    Copyright 2011 Francisco Figueiredo Jr.
     Copyright 2016 Commit 451
 
     Licensed under the Apache License, Version 2.0 (the "License");
